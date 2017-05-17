@@ -10,6 +10,7 @@ workspace "RawMouse"
     characterset "Unicode"
     pic "On"
     systemversion "10.0.15063.0"
+    toolset "v141"
     
     filter "configurations:Release"
         optimize "Speed"
